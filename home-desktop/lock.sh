@@ -1,5 +1,13 @@
 #!/bin/bash
 
+#
+# THIS FILE IS NORMALLY LOCATED IN ~/lock.sh
+# REQUIRES ICON PICTURE TO BE LOCATED IN ~/.config/screen-lock.png
+#
+
+
+
+
 BLURTYPE="2x8" # 2.90s
 
 scrot /tmp/screen.png
